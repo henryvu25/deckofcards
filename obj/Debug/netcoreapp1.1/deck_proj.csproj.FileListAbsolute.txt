@@ -1,0 +1,8 @@
+B:\CODING\CSHARP\deck_proj\bin\Debug\netcoreapp1.1\deck_proj.deps.json
+B:\CODING\CSHARP\deck_proj\bin\Debug\netcoreapp1.1\deck_proj.runtimeconfig.json
+B:\CODING\CSHARP\deck_proj\bin\Debug\netcoreapp1.1\deck_proj.runtimeconfig.dev.json
+B:\CODING\CSHARP\deck_proj\bin\Debug\netcoreapp1.1\deck_proj.dll
+B:\CODING\CSHARP\deck_proj\bin\Debug\netcoreapp1.1\deck_proj.pdb
+B:\CODING\CSHARP\deck_proj\obj\Debug\netcoreapp1.1\deck_proj.AssemblyInfo.cs
+B:\CODING\CSHARP\deck_proj\obj\Debug\netcoreapp1.1\deck_proj.dll
+B:\CODING\CSHARP\deck_proj\obj\Debug\netcoreapp1.1\deck_proj.pdb

@@ -35,7 +35,7 @@ namespace deck_proj
                 name = v.ToString();
             }
         }
-
+        //overrides the whole contruction as the class Card so it can be returned as a string.
         public override string ToString()
         {
             return $"{name} of {suit}";
