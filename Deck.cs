@@ -37,6 +37,7 @@ namespace deck_proj
             Random rand = new Random();
             for(int i = 0; i < cards.Count; i++)
             {
+                //switches card at index with random card in deck
                 int x = rand.Next(0,cards.Count);
                 Card temp = cards[x];
                 cards[x] = cards[i];
@@ -51,6 +52,7 @@ namespace deck_proj
                 Reset();
                 Shuffle();
             }
+            //removes card from deck and returns it to user
             Card dealt = cards[0];
             cards.RemoveAt(0);
             return dealt;
