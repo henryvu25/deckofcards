@@ -49,6 +49,7 @@ namespace deck_proj
             if(cards.Count == 0)
             {
                 Reset();
+                Shuffle();
             }
             Card dealt = cards[0];
             cards.RemoveAt(0);
